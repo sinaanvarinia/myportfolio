@@ -29,8 +29,14 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import bamilo from './bamilo.png'
+import kosar from './kosar.png'
+import vesta from './vesta.jpeg'
 
 export {
+  vesta,
+  kosar,
+  bamilo,
   logo,
   backend,
   creator,
