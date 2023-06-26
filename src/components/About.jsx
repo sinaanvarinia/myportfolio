@@ -39,7 +39,7 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
         As an engineer I have learned to challenge myself during lifetime and
-        collaborate with my teammates. Two years of experience in Frontend
+        collaborate with my teammates. Three years of experience in Frontend
         development. Strong understanding of web design principles and user
         experience, ability to create responsive and mobile-first web designs,
         Skilled in integrating APIs and working with data in JSON and XML

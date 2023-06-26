@@ -17,12 +17,11 @@ import {
   figma,
   docker,
   kosar,
-  tesla,
-  carrent,
   jobit,
   tripguide,
   threejs,
   vesta,
+  kosarweb,
 } from "../assets";
 
 export const navLinks = [
@@ -154,51 +153,53 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "I thought it was impossible to make a website as beautiful as our product, but Sina proved me wrong.",
+    name: "Pouria",
+    designation: "CEO ",
+    company: " Foulad Gostar Kowsar Iran ",
+    image: "https://fgkinv.com/images/personel/pouria.jpeg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "I've never met a frontend developer who truly cares about their clients' success like Sina does.",
+    name: "Kousha ghodsizad",
+    designation: "Backend developer ",
+    company: " Stuocu Netherland",
+    image:
+      "https://media.licdn.com/dms/image/D4E03AQFB8MRS8laEHA/profile-displayphoto-shrink_400_400/0/1680952713509?e=1693440000&v=beta&t=rRoLsBUM266E7_W45MYkyp3d-msvdU-xba7icnbtE9I",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      " Sina is a hardworking team member who has no feer in learning new technologies!",
+    name: "Hesam Sadri",
+    designation: " Data scientist ",
+    company: " SchoolsFirst california",
+    image:
+      "https://media.licdn.com/dms/image/C5603AQEimwOm1YRMHQ/profile-displayphoto-shrink_100_100/0/1654579020179?e=1693440000&v=beta&t=SshAGiP9nZFWy2ah_0Ay8qjv37fjdBdYfUlPJ4Uz_Q0",
   },
 ];
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Mining Company",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows users to become familiar with the products of the Holding and contact with the company.",
     tags: [
       {
-        name: "react",
+        name: "HTML,CSS",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Bootstrap",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Javascript",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: kosarweb,
+    source_code_link: "https://fgkinv.com/",
   },
   {
     name: "Job IT",
